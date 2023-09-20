@@ -7,7 +7,7 @@
 要运行此脚本，请执行``$ python <script_file> <dataset file>``操作。
 ## 数据集2（真实世界的公共数据集）
 包含与模拟**simulation**文件相同的脚本文件，以便于在**csv**文件可用的数据上运行。
-[https://ieeexplore.ieee.org/document/9661373](https://ieeexplore.ieee.org/document/9661373)显示了数据集的详细信息。
+[https://ieee-dataport.org/documents/multi-channel-ble-rssi-measurements-indoor-localization](https://ieee-dataport.org/documents/multi-channel-ble-rssi-measurements-indoor-localization)显示了数据集的详细信息。
 要运行此脚本，请执行``$ python <script_file> <dataset file>``操作。
 ## 图像
 **image**文件展示了仿真实验中，基于集成学习算法对三种机器人轨迹进行预测的结果，文件还包含了数据集**1**中**RSSI**样本点的位置、和数据集**2**中**RSSI**样本点的位置。
